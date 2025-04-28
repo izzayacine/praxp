@@ -33,6 +33,17 @@ The Python script `min_drset.py` implements the proposed methods in [iincms-corr
 Please cite the following paper when you use this work:
 
 ```
+@inproceedings{imms-ecai24,
+  author       = {Yacine Izza and
+                  Kuldeep S. Meel and
+                  Jo{\~{a}}o Marques{-}Silva},
+  title        = {Locally-Minimal Probabilistic Explanations},
+  booktitle    = {ECAI 2024 - 27th European Conference on Artificial Intelligence},
+  volume       = {392},
+  pages        = {1092--1099},
+  year         = {2024}
+}
+
 @article{ixincms-ijar23,
   author       = {Yacine Izza and
                   Xuanxiang Huang and
